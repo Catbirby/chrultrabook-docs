@@ -28,11 +28,11 @@ export default {
     contributors: false,
     navbar: [
       {
-        text: 'Documentation',
-        link: '/docs/firmware/',
+        text: 'Github',
+        link: 'https://github.com/chrultrabook/docs',
       },
       {
-        text: 'Join the Community',
+        text: 'Get Support',
         link: 'https://forum.chrultrabook.com/'
       }
     ],
